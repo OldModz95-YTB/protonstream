@@ -5,6 +5,8 @@ ProtonStream Uploader By OldModz95
 Télécharger la dernier version.
 Télécharger le DLL libcef depuis ce lien:
 https://download1476.mediafire.com/o8sougq7dflg/edk857xkaspdonx/libcef.zip
+<br>OR<br>
+https://mega.nz/file/osRknTKY#4-zkStF92Ud_aDAbXlL6vu9QCzUBHMAQ74pDSiPTMng
 <br>
 Puis ajouter le ou ce trouve tout les fichiers.
 <br>
