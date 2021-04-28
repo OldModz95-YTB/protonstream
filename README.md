@@ -8,14 +8,15 @@ https://download1476.mediafire.com/o8sougq7dflg/edk857xkaspdonx/libcef.zip
 <br>OR<br>
 https://mega.nz/file/osRknTKY#4-zkStF92Ud_aDAbXlL6vu9QCzUBHMAQ74pDSiPTMng
 <br>
-Puis ajouter le ou ce trouve tout les fichiers.
+Puis ajouter le ou ce trouve tout les fichiers du logiciel.
 <br>
 <br>
 Si vous avez un problème de mise à jour, télécharger la dernier version ici:
 https://github.com/OldModz95-YTB/protonstream/releases
 <br>
 <br>
-Retrouver le logiciel dans le dossier du chemin:
+Si vous avez fait une mise à jour automatique vous
+retrouverez le logiciel dans le dossier du chemin:
 C:\Users\NOM D'UTILISATEUR\ProtonStream
 <br>
 <br>
