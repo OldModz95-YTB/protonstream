@@ -17,4 +17,16 @@ https://github.com/OldModz95-YTB/protonstream/releases
 <br>
 Retrouver le logiciel dans le dossier du chemin:
 C:\Users\NOM D'UTILISATEUR\ProtonStream
-
+<br>
+<br>
+<br>
+Video de présentation: https://www.youtube.com/watch?v=hidaWy1AoNk
+<br>
+<br>
+<br>
+<img src="https://i.imgur.com/jAk3Jmq.png">
+<br>
+<br>
+<img src="https://i.imgur.com/bks6pr9.png">
+<br>
+<br>
